@@ -26,18 +26,18 @@
   ],
   "transforms": [
     {
-      "name": "register-now",
-      "filepath": "register-now.html",
-      "move_to_subfolder": true,
-      "apply_links_replacements": true,
-      "apply_file_links_replacements": true
-    },
-    {
       "name": "index",
       "filepath": "index.html",
       "move_to_subfolder": false,
       "apply_links_replacements": true,
       "apply_file_links_replacements": false
+    },
+    {
+      "name": "register-now",
+      "filepath": "register-now.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
     }
   ]
 }

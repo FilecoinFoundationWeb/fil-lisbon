@@ -21,6 +21,10 @@
     {
       "target": "\"travel.html\"",
       "replace_by": "\"/travel\""
+    },
+    {
+      "target": "\"index.html\"",
+      "replace_by": "\"/\""
     }
   ],
   "file_links_replacement": [

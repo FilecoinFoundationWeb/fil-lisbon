@@ -3416,6 +3416,7 @@ a {
 }
 
 .div-block-16.hide {
+  z-index: 100000;
   display: none;
 }
 

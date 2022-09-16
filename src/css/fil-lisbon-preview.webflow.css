@@ -778,6 +778,7 @@ a {
 }
 
 .icon-pin-map {
+  width: 32px;
   margin-right: 20px;
 }
 
@@ -844,7 +845,7 @@ a {
 }
 
 .icon {
-  width: auto;
+  width: 45px;
 }
 
 .image-stars-lines {

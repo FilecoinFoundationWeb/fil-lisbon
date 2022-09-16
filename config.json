@@ -8,6 +8,19 @@
     {
       "target": "\"register-now.html\"",
       "replace_by": "\"/register-now\""
+    },
+    {
+      "target": "\"faq.html\"",
+      "replace_by": "\"/faq\""
+    }
+    ,
+    {
+      "target": "\"speakers.html\"",
+      "replace_by": "\"/speakers\""
+    },
+    {
+      "target": "\"travel.html\"",
+      "replace_by": "\"/travel\""
     }
   ],
   "file_links_replacement": [
@@ -35,6 +48,27 @@
     {
       "name": "register-now",
       "filepath": "register-now.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    },
+    {
+      "name": "faq",
+      "filepath": "faq.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    },
+    {
+      "name": "speakers",
+      "filepath": "speakers.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    },
+    {
+      "name": "travel",
+      "filepath": "travel.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true

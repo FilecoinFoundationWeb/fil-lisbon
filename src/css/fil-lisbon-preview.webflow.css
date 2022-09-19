@@ -764,6 +764,7 @@ a {
   top: 140px;
   right: 110px;
   bottom: auto;
+  display: none;
 }
 
 .image-12.faq {
@@ -1357,6 +1358,7 @@ a {
   top: auto;
   right: auto;
   bottom: 65px;
+  display: none;
 }
 
 .img-bus {
@@ -4145,7 +4147,7 @@ a {
   }
 
   .icon {
-    width: auto;
+    width: 45px;
   }
 
   .icon-hearth {
@@ -5957,6 +5959,7 @@ a {
 
   .img-yellow-star {
     left: 10px;
+    display: none;
   }
 
   .div-father-blocks {
@@ -6016,6 +6019,10 @@ a {
     padding-left: 30px;
   }
 
+  .main-button._2.hide-mobile {
+    display: none;
+  }
+
   .main-button._2.mobile {
     width: 90%;
     margin-top: 0px;
@@ -6026,6 +6033,7 @@ a {
   }
 
   .img-star-blank {
+    display: none;
     width: 55px;
   }
 
@@ -6107,6 +6115,10 @@ a {
     line-height: 55px;
   }
 
+  .img-smile {
+    display: none;
+  }
+
   .logo-fillisbon {
     width: 150px;
   }
@@ -6123,6 +6135,10 @@ a {
   .image-12.faq {
     top: 24px;
     width: 60px;
+  }
+
+  .image-12.faq.blue-planet-copy {
+    display: none;
   }
 
   .icon-pin-map {
@@ -6326,6 +6342,7 @@ a {
   }
 
   .section-bg-bege-2.the-place {
+    overflow: hidden;
     background-size: 200px;
   }
 
@@ -6467,6 +6484,7 @@ a {
   }
 
   .navbar-logo-left-container.shadow-three {
+    z-index: 10;
     padding-right: 20px;
     padding-left: 20px;
     background-color: #f7efd4;
@@ -6492,6 +6510,10 @@ a {
 
   .description {
     width: 95%;
+  }
+
+  .icon-black-star-travel {
+    display: none;
   }
 
   .image-27 {
@@ -6552,6 +6574,10 @@ a {
     grid-template-rows: auto auto auto auto auto auto;
   }
 
+  .image-31 {
+    display: none;
+  }
+
   .icon-guitar {
     top: 79px;
     right: 2px;
@@ -6561,11 +6587,13 @@ a {
   .icon-black-star-faq {
     right: 18px;
     bottom: 132px;
+    display: none;
   }
 
   .blue-star {
     left: 4px;
     right: auto;
+    display: none;
     width: 55px;
   }
 
@@ -6686,6 +6714,7 @@ a {
   }
 
   .img-star-blank-2 {
+    display: none;
     width: 55px;
   }
 
@@ -6809,7 +6838,7 @@ a {
   grid-row-end: span 1;
 }
 
-#w-node-_66314ed7-13f7-63a3-c24c-f77776f6dd3c-ef9e0591 {
+#w-node-_93264c1b-25bb-e555-8573-0f0a235fb905-ef9e0591 {
   -ms-grid-column: span 3;
   grid-column-start: span 3;
   -ms-grid-column-span: 3;
@@ -7714,7 +7743,7 @@ a {
   grid-row-end: span 1;
 }
 
-#w-node-_6631cc2c-640d-9b9b-4ad3-28c81e4b03ea-e314fd9a {
+#w-node-e473767c-e1d1-c51d-585e-2962ef68c02a-e314fd9a {
   -ms-grid-column: span 3;
   grid-column-start: span 3;
   -ms-grid-column-span: 3;
@@ -7725,7 +7754,7 @@ a {
   grid-row-end: span 1;
 }
 
-#w-node-c6ffdb5d-7704-44b7-4832-73cd0c3604b6-d6734b95 {
+#w-node-_9207b70b-5286-01b8-1796-f10ee2aaedb6-d6734b95 {
   -ms-grid-column: span 3;
   grid-column-start: span 3;
   -ms-grid-column-span: 3;

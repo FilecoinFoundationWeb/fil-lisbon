@@ -3075,7 +3075,7 @@ a {
 }
 
 .image-31 {
-  display: block;
+  display: none;
   -webkit-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
   transform: rotate(-90deg);
@@ -5329,7 +5329,7 @@ a {
   }
 
   .box-m {
-    width: 50%;
+    width: 100%;
     margin-right: 0px;
   }
 
@@ -5524,7 +5524,7 @@ a {
   }
 
   .box-d {
-    width: 50%;
+    width: 100%;
     margin-top: 20px;
     margin-right: 0px;
     margin-bottom: 20px;
@@ -6069,7 +6069,7 @@ a {
   }
 
   .box-m {
-    width: 90%;
+    width: 100%;
   }
 
   .image-13 {
@@ -6331,7 +6331,7 @@ a {
   }
 
   .box-d {
-    width: 90%;
+    width: 100%;
   }
 
   .title-small.locaps {

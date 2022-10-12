@@ -12,6 +12,10 @@
     {
       "target": "\"faq.html\"",
       "replace_by": "\"/faq\""
+    },    
+    {
+      "target": "\"covid-policy.html\"",
+      "replace_by": "\"/covid-policy\""
     },
     {
       "target": "\"speakers.html\"",
@@ -58,6 +62,13 @@
     {
       "name": "speakers",
       "filepath": "speakers.html",
+      "move_to_subfolder": true,
+      "apply_links_replacements": true,
+      "apply_file_links_replacements": true
+    },
+    {
+      "name": "covid-policy",
+      "filepath": "covid-policy.html",
       "move_to_subfolder": true,
       "apply_links_replacements": true,
       "apply_file_links_replacements": true

@@ -290,6 +290,7 @@ a {
 }
 
 .main-button {
+  display: none;
   padding-right: 57px;
   padding-left: 43px;
   border: 2px solid #000;
@@ -1380,6 +1381,10 @@ a {
 .section-p.less-passing {
   padding: 40px 40px 40px 50px;
   background-color: #003662;
+}
+
+.section-p.less-passing.announcements {
+  display: none;
 }
 
 .section-p.less-passing.ideas {
@@ -3794,6 +3799,7 @@ a {
 }
 
 .main-button-side-events {
+  display: none;
   padding-right: 57px;
   padding-left: 43px;
   border: 2px solid #000;

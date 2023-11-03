@@ -307,6 +307,7 @@ a {
 
 .main-button._2.hide-mobile {
   text-align: center;
+  display: none;
 }
 
 .main-button._2.mobile {
